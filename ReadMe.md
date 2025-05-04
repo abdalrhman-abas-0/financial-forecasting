@@ -16,23 +16,6 @@
 
 ---
 
-## 🛠️ Tool Breakdown
-### Assumptions Panel (`assumptions.png`)  
-| Scenario    | Year 4 | Year 5 |  
-|-------------|--------|--------|  
-| **Revenue Growth** |        |        |  
-| Base        | 16.0%  | 17.0%  |  
-| Strong      | 15.5%  | 15.5%  |  
-| Weak        | 14.0%  | 14.0%  |  
-| **Gross Margin**   | 93%    | 93%    |  
-| **Operating Margin** | 17%   | 17%    |  
-
-### WRK-Specific Analysis  
-- **Historical Data**: Year 3 revenues of **$14.2B** with operating margins as low as **0.17%**.  
-- **Forecasts**: Year 5 revenue projections up to **$19,2B** under Strong Case.  
-
----
-
 ## 🚀 Getting Started
 1. **Clone the Repository**:  
    ```bash
@@ -52,6 +35,10 @@
 4. **Analyze Projections**:  
    - **Dashboard**: View 5-year income statements and margins.  
    - **Data Sheet**: Edit historical data to update forecasts.  
+
+### Example: WRK-Specific Analysis  
+- **Historical Data**: Year 3 revenues of **$14.2B** with operating margins as low as **0.17%**.  
+- **Forecasts**: Year 5 revenue projections up to **$19,2B** under Strong Case.  
 
 ---
 
