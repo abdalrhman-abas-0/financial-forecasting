@@ -68,7 +68,7 @@
 
 ## 🔧 Customization
 1. **Add New Tickers**:  
-   - Append data to the `Data` sheet (ensure that `ticker_symbol`, `years`, `period_ending`, `total_revenue`, `cost_of_revenue`, `sales_general_and_admin`, and `other_operating_items` 
-    ranges are updated).  
+   - Append data to the `Data` sheet (ensure that `ticker_symbol`, `years`, `period_ending`, `total_revenue`, `cost_of_revenue`, `sales_general_and_admin`, `other_operating_items`, `growthprofits`, `operatingprofits`, `growthmargin`, and `operatingmargin` ranges are updated).  
+   
 2. **Modify Scenarios**:  
    - Edit the `Operating Senarios-Sensatie Analysis` percentages in the `Assumptions` sheet.  
